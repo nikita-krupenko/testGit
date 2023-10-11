@@ -18,6 +18,13 @@ struct ContentView: View {
                 .foregroundColor(Color.gray)
                 .background(Color(.green))
             //add foregroundColor background
+//            dvfvdfvd
+//            hbjhjhhhj
+//            jlbkjj
+            
+            Text("Welcome")
+            
+            Text("Good bye")
         }
         .padding()
     }
