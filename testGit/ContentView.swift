@@ -23,6 +23,8 @@ struct ContentView: View {
 //            jlbkjj
             
             Text("Welcome")
+            
+            Text("Good bye")
         }
         .padding()
     }
