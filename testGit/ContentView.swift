@@ -13,10 +13,11 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
+            //add name
             Text("Hello, Nikita!")
                 .foregroundColor(Color.gray)
                 .background(Color(.green))
-            
+            //add foregroundColor background
         }
         .padding()
     }
