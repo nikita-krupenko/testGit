@@ -21,6 +21,8 @@ struct ContentView: View {
 //            dvfvdfvd
 //            hbjhjhhhj
 //            jlbkjj
+            
+            Text("Welcome")
         }
         .padding()
     }
