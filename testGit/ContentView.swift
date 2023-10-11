@@ -18,9 +18,9 @@ struct ContentView: View {
                 .foregroundColor(Color.gray)
                 .background(Color(.green))
             //add foregroundColor background
-            dvfvdfvd
-            hbjhjhhhj
-            jlbkjj
+//            dvfvdfvd
+//            hbjhjhhhj
+//            jlbkjj
         }
         .padding()
     }
